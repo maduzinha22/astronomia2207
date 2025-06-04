@@ -18,7 +18,7 @@ const perguntas = [
             },
             {
                  texto: "38",
-                afirmacao: "errad"
+                afirmacao: "errado"
             },
             {
                  texto: "13",
